@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mobile-sensor-web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mobile_sensor_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mobile-sensor-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mobile-sensor-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
